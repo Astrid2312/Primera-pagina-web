@@ -1,3 +1,28 @@
+
+img {
+    width: 30px;
+    display: inline-block;
+    
+
+}
+.menu1 {
+    background-color: black;
+    text-align: left;
+    border: 1px solid black;
+    padding: 1px;
+    text-align: left;
+
+ }
+ .menu1 li{
+     color:  white;
+    list-style: none ;
+    padding: 5px;
+    font: bold 14px verdana white;
+    display: inline-block;
+   margin: left;
+
+}
+
 header {
 background-color: blueviolet;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
